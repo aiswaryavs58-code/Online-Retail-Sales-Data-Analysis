@@ -1,10 +1,10 @@
-🛒 Online Retail Sales Data Analysis
+# 🛒 Online Retail Sales Data Analysis
 
 Turning raw sales data into clear business insights.
 
 This project analyzes online retail sales data to understand customer buying behavior, sales trends, and product performance, and then provides simple recommendations to help improve business decisions.
 
-📊 Project Overview
+# 📊 Project Overview
 
 The Problem:
 The retail business had a large amount of sales data, but the data was messy and difficult to understand. Important questions like what sells the most, when sales are higher, and where customers come from were not clear.
@@ -21,7 +21,7 @@ Business improvement opportunities
 The Outcome:
 Raw and confusing data was converted into meaningful insights that can help the business plan inventory, sales, and marketing better.
 
-💡 Key Findings
+# 💡 Key Findings
 1️⃣ A Few Products Drive Most Sales
 
 Only a small number of products generate the majority of revenue. These products are the main contributors to business income.
@@ -42,7 +42,7 @@ Many customers make multiple purchases, showing opportunities for customer loyal
 
 After removing incorrect and duplicate records, the analysis became more accurate and trustworthy.
 
-🛠️ Tools and Technologies (Explained Simply)
+# 🛠️ Tools and Technologies 
 
 Python – Used to work with and analyze data
 
@@ -52,9 +52,7 @@ Matplotlib & Seaborn – Used to create easy-to-understand charts
 
 Jupyter Notebook – A workspace to combine explanation, analysis, and visuals
 
-(No advanced technical knowledge is required to understand the results.)
-
-🎯 Top Recommendations
+# 🎯 Top Recommendations
 
 1️⃣ Focus on Best-Selling Products
 Keep more stock of products that sell the most to avoid missing sales opportunities.
@@ -71,7 +69,7 @@ Run discounts and offers during months when customers are more active.
 5️⃣ Encourage Repeat Purchases
 Introduce loyalty programs or special offers for returning customers.
 
-📊 Dataset
+# 📊 Dataset
 
 Source: Online retail company sales data
 
